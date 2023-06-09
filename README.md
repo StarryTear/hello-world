@@ -1,2 +1,2 @@
 # hello-world
-learning github
+hello everyone.I'm student, I like code and doing sports.
